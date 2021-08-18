@@ -20,7 +20,6 @@ function onOpen(){
   UI.createMenu("ENVIO DE EMAILS")
   .addItem("EMAIL", "EMAIL")
   .addToUi();
-
 }
 
 //EMAILS
